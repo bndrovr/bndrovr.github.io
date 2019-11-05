@@ -1,0 +1,36 @@
+#header {
+  background-size: cover;
+  padding: 10px 16px;
+  text-align: left;
+  background: #1abc9c;
+  color: white;
+  font-size: 20px;
+  border: solid yellow;
+  border-width: 5px;
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+#content {
+  padding-top: 75px;
+}
+body {
+  background-image: url("sunrise.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+a {
+   color: white;
+}
+p {
+ text-align: center;
+ width: 150px;
+ margin: left;
+ border: 5px solid yellow;
+  background: #1abc9c;
+ }
+.move {
+
+}
+form {
+}
